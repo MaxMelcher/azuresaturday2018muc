@@ -9,7 +9,7 @@ cd bin
 :install
 curl -o Hugo0324.zip -L https://github.com/gohugoio/hugo/releases/download/v0.32.4/hugo_0.32.4_Windows-64bit.zip
 echo Installing Hugo...
-SetLocal DisableDelayedExpansion & d:\7zip\7za x Hugo0323.zip
+SetLocal DisableDelayedExpansion & d:\7zip\7za x Hugo0324.zip
 
 REM Generate Hugo static site from source on GitHub
 :build
