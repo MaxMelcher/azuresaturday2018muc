@@ -8,9 +8,12 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
+googleAnalytics = "UA-23610381-1"
 enableRobotsTXT = true
+googleMapsAPIKey = "AIzaSyB3RO5oK8dNecMNetTCL9Bj1fSGb_g0n5o"
 
+[Menus]
+  main = "test"
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
@@ -28,6 +31,6 @@ enableRobotsTXT = true
   github = ""
   linkedin = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
+  background_color_class = "bg-lightest-blue"
   featured_image = "/img/logo.png"
   recent_posts_number = 2
