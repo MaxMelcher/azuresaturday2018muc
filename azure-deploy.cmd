@@ -14,5 +14,5 @@ SetLocal DisableDelayedExpansion & d:\7zip\7za x Hugo0324.zip
 REM Generate Hugo static site from source on GitHub
 :build
 popd
-call D:\home\site\deployments\tools\Hugo0324\bin\hugo -d D:\home\site\wwwroot
+call D:\home\site\deployments\tools\Hugo0324\bin\hugo -v -d D:\home\site\wwwroot
 echo Hugo build finished successfully.
