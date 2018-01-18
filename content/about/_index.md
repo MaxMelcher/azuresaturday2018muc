@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "Full day Azure community event (25.05.2017 in Munich)"
+description: "Full day Azure community event (26.05.2017 in Munich)"
 featured_image: '/img/logo.png'
 ---
 {{< figure src="/img/logo.png" title="Azure Saturday 2018" >}}
@@ -38,7 +38,7 @@ Mail: contact@azuresaturday.de
 ​Azure Saturday Munich is a free community-focused Azure event dedicated to educating and engaging members of the local technical community. Azure Saturday draws upon the expertise of local Azure IT professionals, developers and solutions architects who come together to share their real world experiences, lessons learned, best practices, and general knowledge with other like-minded individuals.
 
 # When is Azure Saturday Munich?
-Saturday, May 25th, 2018, 8:30AM – 5:3​0PM
+Saturday, May 26th, 2018, 8:30AM – 5:3​0PM
 
 # How do I register?
 Registrations are open: [register​]({{< register >}}) – limited availability, don’t wait too long! And tell all the people you like :)
