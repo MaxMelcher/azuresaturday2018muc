@@ -1,5 +1,5 @@
-title = "Azure Saturday 2018"
-baseURL = "https://azuresaturday.azurewebsites.net"
+title = "Azure Saturday 2018: Munich"
+baseURL = "https://azuresaturday.de"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 themesDir = "themes"
