@@ -19,7 +19,7 @@ To stay up to date for our upcoming event​ ​please join our meetup group and
 
 # Register
 
-Register today, totally free: [Azure Saturday: Munich 2018]({{< register >}})
+Register today, **totally free**: [Azure Saturday: Munich 2018]({{< register >}})
 
 <a href="https://www.eventbrite.de/e/azure-saturday-2018-registration-42274723837?ref=ebtn" target="_blank"><img src="https://www.eventbrite.de/custombutton?eid=42274723837" alt="Eventbrite - Azure Saturday 2018" /></a>
 
