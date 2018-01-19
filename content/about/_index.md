@@ -2,6 +2,8 @@
 title: "About"
 description: "Full day Azure community event (26.05.2017 in Munich)"
 featured_image: '/img/logo.png'
+images: 
+    - "/img/logo.png"
 ---
 {{< figure src="/img/logo.png" title="Azure Saturday 2018" >}}
 

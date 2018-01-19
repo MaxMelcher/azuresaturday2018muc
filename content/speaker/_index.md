@@ -2,6 +2,8 @@
 title: "Speakers"
 date: 2017-03-02T12:00:00-05:00
 author: "Azure Saturday Team"
+images: 
+    - "/img/landing/Speakers.jpg"
 ---
 
 Currently our call for speakers is running - please stay tuned for more details.
