@@ -26,8 +26,9 @@ Register today, totally free: [Azure Saturday: Munich 2018]({{< register >}})
 {{< google-maps key="AIzaSyB3RO5oK8dNecMNetTCL9Bj1fSGb_g0n5o" location="Walter-Gropius-Straße 5, 80807 Munich, Germany">}} 
 
 # FANCY SPEAKING IN MUNICH?
-Our [call for speakers]({{< cfp >}}) is now open! Check the CFP page for more details.
+Our [call for speakers]({{< cfp >}}) is now open! Check the CFP page for more details:
 
+<a href="https://sessionize.com/azure-saturday-2018"><img width="125" height="125" style="width: 125px !important;" src="https://sessionize.com/Assets/buttons/sessionize--button-125x125.png" alt="Sessionize.com - smart way to manage call for papers, speaker and agenda"></a>
 ​​
 # Contact us
 Twitter: [@azuresaturday](https://twitter.com/azuresaturday)

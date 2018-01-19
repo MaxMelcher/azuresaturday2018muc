@@ -4,10 +4,12 @@ date: 2017-03-02T12:00:00-05:00
 author: "Azure Saturday Team"
 ---
 
-Currently our call for speakers is running - please come back later for more details.
+Currently our call for speakers is running - please stay tuned for more details.
 
+If you want to speak, submit here:
+<a href="https://sessionize.com/azure-saturday-2018"><img width="125" height="125" style="width: 125px !important;" src="https://sessionize.com/Assets/buttons/sessionize--button-125x125.png" alt="Sessionize.com - smart way to manage call for papers, speaker and agenda"></a>
 
-# Our awesome lineup of Speakers of 2017:
+## Our awesome lineup of Speakers of 2017:
 
 Ben Huepeden  
 Cloud Architect  
