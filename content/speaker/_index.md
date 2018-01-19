@@ -1,12 +1,13 @@
 ---
 title: "Speakers"
 date: 2017-03-02T12:00:00-05:00
+author: "Azure Saturday Team"
 ---
 
 Currently our call for speakers is running - please come back later for more details.
 
 
-Speakers of 2017:
+# Our awesome lineup of Speakers of 2017:
 
 Ben Huepeden  
 Cloud Architect  
