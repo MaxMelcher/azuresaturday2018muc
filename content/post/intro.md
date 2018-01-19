@@ -9,9 +9,9 @@ title: "Azure Saturday: Munich 2018 - Very first infos"
 
 # **Save the date and spread the word**: Azure Saturday is coming back to Munich: May, 26th 2018. 
 
-Azure Saturday 2017 was the first ever Microsoft Azure community conference in Germany. About 300 attendees had an awesome day last summer with 21 sessions in 4 parallel tracks.
+About 300 attendees had an awesome day last summer with 21 sessions in 4 parallel tracks - and this year will be even more **AWESOME!**
 
-We will host this year’s Azure Saturday on May, 26th at Microsoft Germany’s headquarter in Munich.<!--readmore-->
+We will host this year’s Azure Saturday on **May, 26th at Microsoft Germany’s headquarter in Munich**.<!--more-->
 
 If you want to attend make sure to grab your ticket soon as early bird tickets are limited.
 <a href="https://www.eventbrite.de/e/azure-saturday-2018-registration-42274723837?ref=ebtn" target="_blank"><img src="https://www.eventbrite.de/custombutton?eid=42274723837" alt="Eventbrite - Azure Saturday 2018" /></a>
