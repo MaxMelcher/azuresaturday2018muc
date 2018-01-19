@@ -6,3 +6,7 @@ date: 2017-03-02T12:00:00-05:00
 
 Currently we are building our agenda, stay tuned! 
 We expect to announce the first sessions in February!
+
+# Agenda of 2017
+
+Curious about the past? Checkout the [previous agenda](/2017/Agenda2017.pdf).
