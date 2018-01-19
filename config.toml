@@ -1,7 +1,7 @@
 title = "Azure Saturday 2018: Munich"
 baseURL = "https://azuresaturday.de"
 languageCode = "en-us"
-theme = "gohugo-theme-ananke"
+theme = "azuresaturday"
 themesDir = "themes"
 
 MetaDataFormat = "yaml"
