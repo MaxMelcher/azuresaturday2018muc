@@ -12,12 +12,13 @@ googleAnalytics = "UA-23610381-1"
 enableRobotsTXT = true
 googleMapsAPIKey = "AIzaSyB3RO5oK8dNecMNetTCL9Bj1fSGb_g0n5o"
 
-[Menus]
-  main = "test"
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+[[menu.main]]
+    name = "Tickets"
+    weight = -110
+    identifier = "register"
+    url = "https://www.eventbrite.com/e/azure-saturday-2018-registration-42274723837?aff=web"
+
+
 
 [params]
   register = "https://www.eventbrite.com/e/azure-saturday-2018-registration-42274723837?aff=web"
@@ -34,3 +35,8 @@ googleMapsAPIKey = "AIzaSyB3RO5oK8dNecMNetTCL9Bj1fSGb_g0n5o"
   background_color_class = "bg-lightest-blue"
   featured_image = "/img/logo.png"
   recent_posts_number = 2
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
