@@ -9,7 +9,7 @@ DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = "UA-23610381-1"
-enableRobotsTXT = true
+enableRobotsTXT = false
 googleMapsAPIKey = "AIzaSyB3RO5oK8dNecMNetTCL9Bj1fSGb_g0n5o"
 
 [[menu.main]]
