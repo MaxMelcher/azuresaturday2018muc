@@ -38,7 +38,7 @@ Technical Evangelist
 Microsoft
 
 Thomas Janetscheck  
-Architect  
+Cloud Solutions Architect  
 Data One GmbH  
 
 Siavash Ghassemi  
