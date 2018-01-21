@@ -7,10 +7,12 @@ images:
 ---
 {{< figure src="/img/logo.png" title="Azure Saturday 2018" >}}
 
-Azure Saturday Munich is a free community-focused Azure event dedicated to educating and engaging members of the local technical community. Azure Saturday draws upon the expertise of local Azure **IT professionals**, **developers** and **solutions architects** who come together to share their real world experiences, lessons learned, best practices, and general knowledge with other like-minded individuals.
+>Azure Saturday Munich is a free community-focused Azure event dedicated to educating and engaging members of the local technical community. Azure Saturday draws upon 
+>the expertise of local Azure **IT professionals**, **developers** and **solutions architects** who come together to share their real world experiences, lessons learned, 
+>best practices, and general knowledge with other like-minded individuals.
 
 # Welcome to Azure Saturday in Munich - 2nd edition!
-To stay up to date for our upcoming event​ ​please join our meetup group and follow us on Twitter [@AzureSaturday](https://twitter.com/azuresaturday)
+To stay up to date for our upcoming event​ ​please join our [meetup group](https://www.meetup.com/de-DE/Azure-Saturday/) and follow us on Twitter [@AzureSaturday]({{< twitter >}}) - and most importantly, [grab a ticket]({{< register >}})! 
 
 - Free
 - Top Speakers
@@ -35,12 +37,15 @@ Our [call for speakers]({{< cfp >}}) is now open! Check the CFP page for more de
 <a href="https://sessionize.com/azure-saturday-2018"><img width="125" height="125" style="width: 125px !important;" src="https://sessionize.com/Assets/buttons/sessionize--button-125x125.png" alt="Sessionize.com - smart way to manage call for papers, speaker and agenda"></a>
 ​​
 # Contact us
-Twitter: [@azuresaturday](https://twitter.com/azuresaturday)
-Hash Tag: #azuresaturday
-Mail: contact@azuresaturday.de
+Twitter: [@AzureSaturday]({{< twitter >}})  
+Hash Tag: #azuresaturday  
+Mail: [contact@azuresaturday.de](mailto:contact@azuresaturday.de)
 
 # What’s Azure Saturday Munich?
-​Azure Saturday Munich is a free community-focused Azure event dedicated to educating and engaging members of the local technical community. Azure Saturday draws upon the expertise of local Azure IT professionals, developers and solutions architects who come together to share their real world experiences, lessons learned, best practices, and general knowledge with other like-minded individuals.
+
+ > Azure Saturday Munich is a free community-focused Azure event dedicated to educating and engaging members of the local technical community. Azure Saturday draws upon
+ > the expertise of local Azure IT professionals, developers and solutions architects who come together to share their real world experiences, lessons learned, best   
+ > practices, and general knowledge with other like-minded individuals.
 
 # When is Azure Saturday Munich?
 Saturday, May 26th, 2018, 8:30AM – 5:3​0PM

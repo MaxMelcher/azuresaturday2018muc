@@ -17,8 +17,11 @@ enableRobotsTXT = true
     weight = -110
     identifier = "register"
     url = "https://www.eventbrite.com/e/azure-saturday-2018-registration-42274723837?aff=web"
-
-
+[[menu.main]]
+    name = "Azure Saturday"
+    weight = -120
+    identifier = "Azure Saturday"
+    url = "/"
 
 [params]
   register = "https://www.eventbrite.com/e/azure-saturday-2018-registration-42274723837?aff=web"
