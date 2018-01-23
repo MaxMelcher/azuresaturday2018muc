@@ -13,7 +13,7 @@ If you want to speak, submit here:
 
 ## Our awesome lineup of Speakers of 2017:
 
-Ben Huepeden  
+Benjamin Huepeden  
 Cloud Architect  
 VAS Value Added Services GmbH
 
@@ -38,7 +38,7 @@ Technical Evangelist
 Microsoft
 
 Thomas Janetscheck  
-Architect  
+Cloud Solutions Architect  
 Data One GmbH  
 
 Siavash Ghassemi  
