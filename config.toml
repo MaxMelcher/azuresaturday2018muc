@@ -16,13 +16,20 @@ enableRobotsTXT = true
     name = "> Tickets <"
     weight = -110
     identifier = "register"
-    url = "https://www.eventbrite.com/e/azure-saturday-2018-registration-42274723837?aff=web"
+    url = "https://www.eventbrite.com/e/azure-saturday-2018-registration-42274723837?aff=web"	
+    title = "Grab a free ticket"
+[[menu.main]]
+	name = "CfP"
+	weight = -120
+	identifier = "Call for Presentations"
+	url = "/"
+  title = "Call for Presentations"
 [[menu.main]]
     name = "Azure Saturday"
-    weight = -120
+    weight = -130
     identifier = "Azure Saturday"
     url = "/"
-
+    title = "Azure Saturday"
 [params]
   register = "https://www.eventbrite.com/e/azure-saturday-2018-registration-42274723837?aff=web"
   cfp = "https://sessionize.com/azure-saturday-2018"
