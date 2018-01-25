@@ -22,7 +22,7 @@ enableRobotsTXT = true
 	name = "CfP"
 	weight = -120
 	identifier = "Call for Presentations"
-	url = "/"
+	url = "https://sessionize.com/azure-saturday-2018"
   title = "Call for Presentations"
 [[menu.main]]
     name = "Azure Saturday"
