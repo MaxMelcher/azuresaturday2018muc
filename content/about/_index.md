@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "Full day Azure community event (26.05.2017 in Munich)"
+description: "Full day Azure community event (26.05.2018 in Munich)"
 featured_image: '/img/logo.png'
 images: 
     - "/img/logo.png"
