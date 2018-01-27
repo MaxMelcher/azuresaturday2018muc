@@ -85,5 +85,5 @@ Architect
 Microsoft
 
 Patrick Heyde  
-Technical Evangelist  
+Cloud Solution Architect / Business Lead Azure Partner Solution
 Microsoft
