@@ -1,6 +1,6 @@
 ---
 title: "Speakers"
-date: 2018-03-27T12:00:00-05:00
+date: 2017-03-02T12:00:00-05:00
 author: "Azure Saturday Team"
 images: 
     - "/img/landing/Speakers.jpg"
