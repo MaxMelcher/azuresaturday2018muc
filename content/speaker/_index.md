@@ -12,9 +12,8 @@ Currently our Call for Papers (CfP) is running and you can submit your awesome s
 ## Our awesome speaker lineup of 2018 ##
 
 Our Call for Papers is still running and we already have almost 100 session proposals. Thank you all for your interest in speaking, this is awesome!
-In 2018, our speakers will cover a wide range of Azure-related topics, including Azure Security, Compliance, and Governance, Data Platform, IoT, Development, DevOps, and many more.
 
-Our international speaker lineup varies from Microsoft MVPs and RDs, Microsoft employees to community leads and rising stars. Speakers that have already been accepted and who have confirmed to join us are:
+In 2018, our speakers will cover a wide range of Azure-related topics, including Azure Security, Compliance, and Governance, Data Platform, IoT, Development, DevOps, and many more. Our international speaker lineup varies from Microsoft MVPs and RDs, Microsoft employees to community leads and rising stars. Speakers that have already been accepted and who have confirmed to join us are:
 
 <script type="text/javascript" src="https://sessionize.com/api/v2/rzyhb9wj/view/speakerwall"></script>
 
