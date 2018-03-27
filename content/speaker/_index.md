@@ -1,89 +1,21 @@
 ---
 title: "Speakers"
-date: 2017-03-02T12:00:00-05:00
+date: 2018-03-27T12:00:00-05:00
 author: "Azure Saturday Team"
 images: 
     - "/img/landing/Speakers.jpg"
 ---
 
-Currently our call for speakers is running - please stay tuned for more details.
-
-If you want to speak, submit here:
+Currently our Call for Papers (CfP) is running and you can submit your awesome sessions by March, 31st 2018 here:
 <a href="https://sessionize.com/azure-saturday-2018"><img width="125" height="125" style="width: 125px !important;" src="https://sessionize.com/Assets/buttons/sessionize--button-125x125.png" alt="Sessionize.com - smart way to manage call for papers, speaker and agenda"></a>
 
-## Our awesome lineup of Speakers of 2017:
+## Our awesome speaker lineup of 2018 ##
 
-Benjamin Huepeden  
-Cloud Architect  
-VAS Value Added Services GmbH
+Our Call for Papers is still running and we already have almost 100 session proposals. Thank you all for your interest in speaking, this is awesome!
+In 2018, our speakers will cover a wide range of Azure-related topics, including Azure Security, Compliance, and Governance, Data Platform, IoT, Development, DevOps, and many more.
 
-Julia Jauß  
-Technical Evangelist  
-Microsoft  
+Our international speaker lineup varies from Microsoft MVPs and RDs, Microsoft employees to community leads and rising stars. Speakers that have already been accepted and who have confirmed to join us are:
 
-Mike Fitzmaurice  
-Vice President of Workflow Technology  
-Nintex
+<script type="text/javascript" src="https://sessionize.com/api/v2/rzyhb9wj/view/speakerwall"></script>
 
-Alexander Zeitler  
-CEO  
-PDMLab  
-
-André Kamman  
-DBA and SQL Server Solutions Architect  
-CloudDBA
-
-Peter Kirchner  
-Technical Evangelist  
-Microsoft
-
-Thomas Janetscheck  
-Cloud Solutions Architect  
-Data One GmbH  
-
-Siavash Ghassemi  
-Software Architect and Developer  
-
-Mustafa Toroman  
-System Engineer  
-Authority Partners
-
-Stefan Scherer  
-Sr. Software Engineer  
-SEAL Systems
-
-Donovan Brown  
-Principal DevOps Program Manager  
-Microsoft  
-
-Sam Cogan  
-Cloud Architect and Microsoft Azure MVP  
-Willis Towers Watson
-
-Manuela Rink  
-Technical Evangelist  
-Microsoft
-
-William Durkin  
-DBA and Data Solution Architect  
-CloudDBA
-
-Michael Kaufmann  
-Senior Manager  
-Alegri International Service GmbH
-
-Guillaume Meyer  
-Entrepreneur & Founder  
-ERYEM
-
-Eric Berg  
-Senior IT-Architect  
-COMPAREX AG
-
-David L. Hollembaek  
-Architect  
-Microsoft
-
-Patrick Heyde  
-Cloud Solution Architect / Business Lead Azure Partner Solution
-Microsoft
+We are looking forward to getting your awesome sessions by March, 31st so we can finish our schedule in April and to spending an awesome event together once again.
