@@ -5,8 +5,9 @@ date: 2017-03-02T12:00:00-05:00
 4 tracks of sessions are planned: **ITPRO**, **Business**, **Development** and **Mix**.
 
 Currently we are building our agenda, stay tuned! 
-We expect to announce the first sessions in February!
 
-# Agenda of 2017
+# Confirmed sessions
 
-Curious about the past? Checkout the [previous agenda](/2017/Agenda2017.pdf).
+The sessions that have already been confirmed for 2018 are listed below. As soon as we have finished our agenda it will be published here.
+
+<script type="text/javascript" src="https://sessionize.com/api/v2/rzyhb9wj/view/sessions"></script>
