@@ -43,7 +43,7 @@ Learn about Azure from experienced experts who design Azure solutions for compan
 
 If you want to sponsor this year’s Azure Saturday in Munich please [contact](mailto:sponsor@azuresaturday.de) us!
 
-Now, don’t waste time, grab your tickets and spend an awesome day with us and the Azure community!  
+Now, don’t waste time, grab your tickets and spend two awesome days with us and the Azure community!
 Ben, Max & Tom
 
 ## Keynote of 2017 by Donovan Brown
