@@ -1,3 +1,8 @@
+---
+title: "Impressum"
+date: 2017-04-22T22:00:00+01:00
+---
+
 <h1>Impressum</h1> <h2>Angaben gem&auml;&szlig; &sect; 5 TMG:</h2> <p>Max Melcher<br />
 Innsbrucker Ring 15<br /> 81673 Munich</p> <h2>Kontakt:</h2> <p>Telefon: +4915153811123<br /> EMail:
 mmelcher@alegri.eu</p> <h2>Verantwortlich f&uuml;r den Inhalt nach &sect; 55 Abs. 2 RStV:</h2>
