@@ -1,6 +1,6 @@
 ---
 title: "Impressum"
-date: 2017-04-22T22:00:00+01:00
+date: 2018-23-11T14:00:00+01:00
 ---
 
 <h1>Impressum</h1> <h2>Angaben gem&auml;&szlig; &sect; 5 TMG:</h2> <p>Max Melcher<br />

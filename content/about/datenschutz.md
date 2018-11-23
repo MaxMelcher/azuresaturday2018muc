@@ -1,6 +1,6 @@
 ---
 title: "Datenschutz"
-date: 2017-04-22T22:00:00+01:00
+date: 2018-23-11T14:00:00+01:00
 ---
 <h1>Datenschutzerkl&auml;rung</h1> <h2>Cookies</h2> <p>Die Internetseiten verwenden teilweise so
 genannte Cookies. Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren.

@@ -1,4 +1,4 @@
-title = "Azure Saturday: Munich 2018"
+title = "Azure Saturday: Munich 2019"
 baseURL = "https://azuresaturday.de"
 languageCode = "en-us"
 theme = "azuresaturday"
@@ -16,8 +16,8 @@ enableRobotsTXT = true
     name = "> Tickets <"
     weight = -110
     identifier = "register"
-    url = "https://www.eventbrite.com/e/azure-saturday-2018-registration-42274723837?aff=web"	
-    title = "Grab a free ticket"
+    url = "https://www.eventbrite.de/e/azure-saturday-2019-registration-42274723837?ref=ebtn"	
+    title = "Grab a free ticket (SOON)"
 [[menu.main]]
     name = "Azure Saturday"
     weight = -130
@@ -25,8 +25,8 @@ enableRobotsTXT = true
     url = "/"
     title = "Azure Saturday"
 [params]
-  register = "https://www.eventbrite.com/e/azure-saturday-2018-registration-42274723837?aff=web"
-  cfp = "https://sessionize.com/azure-saturday-2018"
+  register = "https://www.eventbrite.de/e/azure-saturday-2019-registration-42274723837?ref=ebtn"
+  cfp = "https://sessionize.com/azure-saturday-2019"
   favicon = ""
   description = "​Azure Saturday Munich is a free community-focused Azure event dedicated to educating and engaging members of the local technical community. Azure Saturday draws upon the expertise of local Azure IT professionals, developers and solutions architects who come together to share their real world experiences, lessons learned, best practices, and general knowledge with other like-minded individuals."
   facebook = "https://facebook.com/azuresaturday"
